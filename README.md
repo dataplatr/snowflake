@@ -1,2 +1,2 @@
-# snowflake
+# Snowflake
 Snowflake Accelerator
