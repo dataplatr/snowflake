@@ -103,7 +103,7 @@ The strategy enables finance teams to rapidly deploy natural language querying a
 
 The Dataplatr Financial Analytics Accelerator provides a ready-to-deploy, AI-ready foundation on Snowflake. By combining Agentic ELT automation with Dataplatr’s deep expertise in financial customization, we help enterprises modernize ERP workflows and achieve faster time-to-insight. Whether you are reconciling across 16 states or predicting next quarter’s spend, Dataplatr ensures your financial data is clean, connected, and intelligent.
 
-Contact us at: info@dataplatr.com 
+Contact us at: **info@dataplatr.com** 
 
 For consultations or custom inquiries: [https://dataplatr.com/contact-us](https://dataplatr.com/contact-us)
 
