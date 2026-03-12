@@ -14,7 +14,7 @@ The strategy enables finance teams to rapidly deploy natural language querying a
 
 ## **Data Model Summary**
 
-## ![][image1]
+## ![Data Model Summary](images/data_model_summary.png)
 
 ## **Key Features**
 
@@ -67,17 +67,17 @@ The strategy enables finance teams to rapidly deploy natural language querying a
 
 **Results:** 
 
-**![][image2]**
+**![Data Model Summary](images/1.png)**
 
-**![][image3]**
+**![Data Model Summary](images/2.png)**
 
-**![][image4]**
+**![Data Model Summary](images/3.png)**
 
 **Prompt:   “**What is the overall summary of our general ledger activity including transaction volumes, organizational coverage, and total debit and credit amounts?”
 
 **Results:** 
 
-![][image5]
+![Data Model Summary](images/4.png)
 
 ## **Business Value**
 
